@@ -51,3 +51,8 @@ http://www.zhufengpeixun.com/front/html/2.1.react.html
 https://github.com/lizhiweip/RentalManagement
 https://github.com/youcame/shixunapp
 
+##### 教程
+https://www.bilibili.com/video/BV1yH4y1T7NW
+https://www.youtube.com/watch?v=1NvjmF1DYDE
+https://www.bilibili.com/video/BV1Af4y1j72g/?spm_id_from=333.788.videopod.episodes&vd_source=611c52b27c89f48d96d94e3dac50a33d&p=5
+https://www.bilibili.com/video/BV1hS4y197J1/?spm_id_from=333.788.videopod.episodes&vd_source=611c52b27c89f48d96d94e3dac50a33d&p=8
