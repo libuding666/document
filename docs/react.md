@@ -53,3 +53,6 @@ https://github.com/TaoLoading/01-WebStudy/tree/master/18-React
 ##### 40分钟学会React18组件通信与插槽
 https://www.bilibili.com/video/BV1xM41197cZ/?spm_id_from=333.1387.collection.video_card.click&vd_source=611c52b27c89f48d96d94e3dac50a33d
 
+##### 前端React面试精讲
+
+ https://www.bilibili.com/video/BV1AHUbBrETg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=611c52b27c89f48d96d94e3dac50a33d
