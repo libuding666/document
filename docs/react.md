@@ -40,7 +40,7 @@ export default App
 
 
 #### 复习
-```jsx
+```
 1.babel将jsx代码翻译为js代码 
 // 1.创建一个虚拟DOM
 let vDOM = <h2>hello,react</h2> // jsx语法不需要加引号
@@ -91,7 +91,6 @@ ReactDOM.render(vDOM, document.getElementById('test'))
  
 http://127.0.0.1:5500/18-React/01-React%E5%9F%BA%E7%A1%80/07-%E7%BB%84%E4%BB%B6%E7%9A%84%E7%BB%84%E5%90%88%E4%BD%BF%E7%94%A8/01-%E7%BB%84%E4%BB%B6%E7%BB%84%E5%90%88%E4%BD%BF%E7%94%A8.html
 ```
-
 
 
 #### 教程
