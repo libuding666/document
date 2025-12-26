@@ -75,3 +75,18 @@ antd 后台 - 添加用户列表
 ##### 2025.12.22
 
 信阳出差
+
+##### 2025.12.23
+
+信阳出差
+
+##### 2025.12.24
+休息
+
+##### 2025.12.25
+休息
+
+##### 2025.12.26
+Trae 保姆教程
+https://www.bilibili.com/video/BV1LFa2zQEjU/
+https://www.bilibili.com/video/BV1PwBuBtEZo
