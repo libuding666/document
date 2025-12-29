@@ -1,3 +1,9 @@
+### 统一技术栈
+
+后端: laravel
+前端: vue react flutter electron
+后台框架: antd
+
 ##### 2025.12.10
 
 am ant登录 token 获取当前用户功能开发
@@ -90,3 +96,15 @@ antd 后台 - 添加用户列表
 Trae 保姆教程
 https://www.bilibili.com/video/BV1LFa2zQEjU/
 https://www.bilibili.com/video/BV1PwBuBtEZo
+
+##### 2025.12.27
+新华看电池问题
+调试flutter 环境
+晚上打篮球锻炼
+
+##### 2025.12.28
+步行街吃饭
+
+##### 2025.12.29
+
+vue学习
