@@ -110,3 +110,19 @@ vue学习
 
 ##### 2025.12.30
 uniapp + nest 小案例
+
+##### 2025.12.31
+京东超市
+地锅鸡聚餐
+![ai变现](./img/aibx.png)
+https://www.bilibili.com/video/BV1gQiuBKEgH/?spm_id_from=333.337.search-card.all.click&vd_source=611c52b27c89f48d96d94e3dac50a33d
+
+##### 2026.1.1
+给隔壁栋阿姨看电池型号
+
+放假休息
+
+##### 2026.1.2
+给隔壁栋阿姨确认电池型号
+
+放假休息
