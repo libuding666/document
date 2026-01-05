@@ -122,3 +122,10 @@ Qoder Nextjs Demo
 用trae+uniapp开发一个扫码点餐小程序？30分钟超高质量教学 https://www.bilibili.com/video/BV1BmyWBCE2j/?spm_id_from=333.337.search-card.all.click&vd_source=611c52b27c89f48d96d94e3dac50a33d
 【教程】不写一行代码，开发B站热门选题AI助手 | 数据分析 | 爬虫 https://www.bilibili.com/video/BV1JBmKBBEZa/?spm_id_from=333.337.search-card.all.click&vd_source=611c52b27c89f48d96d94e3dac50a33d
 电影最TOP：年终盘点来喽！2025年度十大佳片 https://www.bilibili.com/video/BV1kovSBcE3s/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=611c52b27c89f48d96d94e3dac50a33d
+
+#### 2026.1.5
+飞书有哪些功能 https://www.bilibili.com/video/BV15L411b7ac/?spm_id_from=333.1391.0.0
+副业怎么挣钱 红果短剧 https://www.bilibili.com/video/BV1Zts6zXEGF/?spm_id_from=333.1391.0.0
+在线文本朗读 https://textreader.cc/
+文本转语音 https://www.text-to-speech.cn/
+研究个体户申报 【未提交】
