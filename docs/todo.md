@@ -134,6 +134,8 @@ Qoder Nextjs Demo
 【Coze工作流教程】一键生成Sora2/即梦，镜前自拍服装展示电商产品短视频，保姆级实操演示 https://www.bilibili.com/video/BV1yjqeBFEeM/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=611c52b27c89f48d96d94e3dac50a33d
 王炸Banana2电商工作流！一键换装生成《走秀短视频》 https://www.bilibili.com/video/BV1pRBPB1EkZ/?spm_id_from=333.1007.tianma.11-2-40.click&vd_source=611c52b27c89f48d96d94e3dac50a33d
 【2026最新版】全30集，即梦+豆包+剪映，2小时快速掌握AI视频制作技巧 https://www.bilibili.com/video/BV1qABABaEjx?spm_id_from=333.788.videopod.episodes&vd_source=611c52b27c89f48d96d94e3dac50a33d&p=8
+善待自己是一剂药方（不保证有效）https://yixi.tv/#/speech/detail?id=1387
+消化生活，点石成金 https://yixi.tv/#/speech/detail?id=1385
 
 ![ai配乐生成](./img/PixPin_2026-01-06_17-40-18.png)
 
