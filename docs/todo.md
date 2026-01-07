@@ -139,3 +139,6 @@ Qoder Nextjs Demo
 
 ![ai配乐生成](./img/PixPin_2026-01-06_17-40-18.png)
 
+#### 2026.1.7
+研究手机安装youtube tiktok app安装
+figma ai 做绣妈妈 https://www.figma.com/make/Ubk0ahCL7SLOEngxujq4D5/Cross-Stitch-Trading-App?t=CUEHdARpDSVO7uIh-0
