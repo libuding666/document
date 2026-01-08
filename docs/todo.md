@@ -142,3 +142,7 @@ Qoder Nextjs Demo
 #### 2026.1.7
 研究手机安装youtube tiktok app安装
 figma ai 做绣妈妈 https://www.figma.com/make/Ubk0ahCL7SLOEngxujq4D5/Cross-Stitch-Trading-App?t=CUEHdARpDSVO7uIh-0
+
+#### 2026.1.8
+看那  中国奇谭 解读
+nocode 绣友圈 https://nocode.host/bs4v6v_aab909c 
