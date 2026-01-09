@@ -146,3 +146,7 @@ figma ai 做绣妈妈 https://www.figma.com/make/Ubk0ahCL7SLOEngxujq4D5/Cross-St
 #### 2026.1.8
 看那  中国奇谭 解读
 nocode 绣友圈 https://nocode.host/bs4v6v_aab909c 
+
+#### 2026.1.9
+Google账号最新注册教程 https://www.youtube.com/watch?v=AbVwUSYWcVA&t=267s 
+企业宣传网页 https://dapper-looks-website.nocode.host/
