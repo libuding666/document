@@ -232,3 +232,21 @@ AI视频不再靠抽卡！镜头可控完整教学  https://www.bilibili.com/vid
 
 #### 2026.1.13
 如何把卡片设计的更高级？https://www.bilibili.com/video/BV1UMrPBZEDp/
+
+ComfyUI提示词懒人工具  https://www.bilibili.com/video/BV1ahBeBCEXH
+
+```
+【工具】https://pan.quark.cn/s/e5cfb76b92fc
+【插件】https://pan.quark.cn/s/9c06d219c095
+【工作流】https://pan.quark.cn/s/ed9cb1d9bdec
+【模型】【diffusion_models】https://pan.quark.cn/s/ff6b277713da
+【模型】【clip】https://pan.quark.cn/s/c7dddf6e1754
+【模型】【vae】https://pan.quark.cn/s/9143bfa61170
+```
+
+原来写一个 AI Agent 这么简单 https://www.bilibili.com/video/BV1UMVKzEESL
+
+AI时代下6大应用方向，分享给在寻找创业赚钱机会的人 https://www.bilibili.com/video/BV122cweVEbB
+
+看《her》电影 https://m.yichengwlkj.com/pc/drama/55989
+

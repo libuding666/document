@@ -21,3 +21,7 @@ LLM/Agent/多模态/MLOps方向
 Streamlit 极速搭建AI智能对话助手 https://www.bilibili.com/video/BV1w3ddYuETz/
 
 秋芝2046 https://space.bilibili.com/385670211?spm_id_from=333.788.upinfo.detail.click
+
+【隔壁的程序员老王】 原来写一个 AI Agent 这么简单 https://www.bilibili.com/video/BV1UMVKzEESL
+
+AI时代下6大应用方向，分享给在寻找创业赚钱机会的人 https://www.bilibili.com/video/BV122cweVEbB
