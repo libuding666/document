@@ -150,3 +150,27 @@ nocode 绣友圈 https://nocode.host/bs4v6v_aab909c
 #### 2026.1.9
 Google账号最新注册教程 https://www.youtube.com/watch?v=AbVwUSYWcVA&t=267s 
 企业宣传网页 https://dapper-looks-website.nocode.host/
+
+#### 2026.1.10
+AnyGen AI  https://www.anygen.io
+附近找货 https://www.anygen.io/share/4vOYiGxaA6YdqUYoc76HhL
+AI大模型应用开发学习路线规划来了 https://www.bilibili.com/video/BV1LRiLBtEv2/
+2025吃透AI大模型全套教程（LLM+RAG+LangChain+Agent https://www.bilibili.com/video/BV1ikEEzGES5
+
+#### 2026.1.11
+研究外贸卖货 
+![外贸卖货](./img/mmexport1768182922113.jpg)
+【AI动画短剧】制作全流程！剧本+分镜+静帧+视频+配音+剪辑 https://www.bilibili.com/video/BV1VVqhBvECY/
+拓竹 3d打印 https://www.bilibili.com/video/BV1azBKBeEhp/?spm_id_from=333.1391.0.0
+21：00 - 1：00 LOL
+
+#### 2026.1.12
+Genshin-TS（gsts）是一套使用Typescript进行千星奇域项目开发的工具链  https://github.com/josStorer/genshin-ts
+飞牛系列-在线fpk快速打包飞牛应用 https://www.bilibili.com/video/BV1676DB5ESD/
+飞牛fpk安装包脚手架fnpack可视化UI包 https://github.com/snltty/fnpackup
+AI视频不再靠抽卡！镜头可控完整教学  https://www.bilibili.com/video/BV1giqEBwEeG/
+年度好用AI大赏！【小白必备】 https://www.bilibili.com/video/BV1ibvhBqEmp
+中国AI产业冰山图 https://www.bilibili.com/video/BV1gKiEBZEHq/
+你管这破玩意叫智能体？https://www.bilibili.com/video/BV1PRvhBSEwx?spm_id_from=333.788.videopod.sections&vd_source=611c52b27c89f48d96d94e3dac50a33d
+
+
