@@ -95,6 +95,8 @@ AI 无人直播带货操作全攻略：不用实时盯播，步骤超简单 http
 
 ##### 小红书
 
-在小红书上开店卖 AI 手机壁纸，4.9 一份，单店卖了 8.7 万份 https://www.bilibili.com/video/BV1QvY5zhEf6/?spm_id_from=333.1007.tianma.6-4-22.click&amp;vd_source=611c52b27c89f48d96d94e3dac50a33d"%3E
+在小红书上开店卖AI手机壁纸，4.9一份，单店卖了8.7万份
+https://www.bilibili.com/video/BV1QvY5zhEf6/
 
-小红书无货源电商实战全流程演示，必爆选品指南，多平台选爆款 https://www.bilibili.com/video/BV1mMeRzNEP6/?spm_id_from=333.1007.tianma.5-4-18.click&vd_source=611c52b27c89f48d96d94e3dac50a33d
+小红书无货源电商实战全流程演示，必爆选品指南，多平台选爆款
+https://www.bilibili.com/video/BV1mMeRzNEP6/

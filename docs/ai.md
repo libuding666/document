@@ -18,5 +18,6 @@ LLM/Agent/多模态/MLOps方向
 
 ##### 教程
 
-Streamlit 极速搭建AI智能对话助手 https://www.bilibili.com/video/BV1w3ddYuETz/?vd_source=611c52b27c89f48d96d94e3dac50a33d
+Streamlit 极速搭建AI智能对话助手 https://www.bilibili.com/video/BV1w3ddYuETz/
+
 秋芝2046 https://space.bilibili.com/385670211?spm_id_from=333.788.upinfo.detail.click

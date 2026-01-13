@@ -1,6 +1,8 @@
 ### Ant Design Pro
 ```javascript
-#####  文件夹结构
+/**
+ * 文件夹结构
+ */
 ├── config                   # umi 配置，包含路由，构建等配置
 ├── mock                     # 本地模拟数据
 ├── public
@@ -54,5 +56,5 @@ https://github.com/youcame/shixunapp
 ##### 教程
 https://www.bilibili.com/video/BV1yH4y1T7NW
 https://www.youtube.com/watch?v=1NvjmF1DYDE
-https://www.bilibili.com/video/BV1Af4y1j72g/?spm_id_from=333.788.videopod.episodes&vd_source=611c52b27c89f48d96d94e3dac50a33d&p=5
-https://www.bilibili.com/video/BV1hS4y197J1/?spm_id_from=333.788.videopod.episodes&vd_source=611c52b27c89f48d96d94e3dac50a33d&p=8
+https://www.bilibili.com/video/BV1Af4y1j72g/
+https://www.bilibili.com/video/BV1hS4y197J1/

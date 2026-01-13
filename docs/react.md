@@ -96,7 +96,7 @@ http://127.0.0.1:5500/18-React/01-React%E5%9F%BA%E7%A1%80/07-%E7%BB%84%E4%BB%B6%
 #### 教程
 
 ##### 2025年最新React全精通教程，5小时吃透react
-https://www.bilibili.com/video/BV11uK3zqEP8?spm_id_from=333.788.player.switch&vd_source=611c52b27c89f48d96d94e3dac50a33d&p=19
+https://www.bilibili.com/video/BV11uK3zqEP8
 
 https://github.com/TaoLoading/01-WebStudy/tree/master/18-React
 
@@ -107,12 +107,12 @@ https://github.com/TaoLoading/01-WebStudy/tree/master/18-React
 ##### 菜鸟教程 https://www.runoob.com/react/react-lists-and-keys.html
 
 ##### 40分钟学会React18组件通信与插槽
-https://www.bilibili.com/video/BV1xM41197cZ/?spm_id_from=333.1387.collection.video_card.click&vd_source=611c52b27c89f48d96d94e3dac50a33d
+https://www.bilibili.com/video/BV1xM41197cZ/
 
 ##### 前端React面试精讲
 
- https://www.bilibili.com/video/BV1AHUbBrETg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=611c52b27c89f48d96d94e3dac50a33d1
+ https://www.bilibili.com/video/BV1AHUbBrETg/
 
 ##### React实战
 
-https://www.bilibili.com/video/BV1tebmziEbF?spm_id_from=333.788.player.switch&vd_source=611c52b27c89f48d96d94e3dac50a33d&p=2
+https://www.bilibili.com/video/BV1tebmziEbF
