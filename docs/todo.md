@@ -173,4 +173,5 @@ AI视频不再靠抽卡！镜头可控完整教学  https://www.bilibili.com/vid
 中国AI产业冰山图 https://www.bilibili.com/video/BV1gKiEBZEHq/
 你管这破玩意叫智能体？https://www.bilibili.com/video/BV1PRvhBSEwx?spm_id_from=333.788.videopod.sections&vd_source=611c52b27c89f48d96d94e3dac50a33d
 
-
+#### 2026.1.13
+如何把卡片设计的更高级？https://www.bilibili.com/video/BV1UMrPBZEDp/
