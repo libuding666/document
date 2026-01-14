@@ -261,5 +261,9 @@ Blender教程丨Hyper3D.AI建模快速体验流程 https://www.bilibili.com/vide
 
 用AI开发上线App全流程！全网最全新版TRAE教程 https://www.youtube.com/watch?v=1c5gc7admh8
 
+我们是如何学习的？https://sspai.com/post/105224
+
+
+
 
 
