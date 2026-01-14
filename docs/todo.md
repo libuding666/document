@@ -250,3 +250,16 @@ AI时代下6大应用方向，分享给在寻找创业赚钱机会的人 https:/
 
 看《her》电影 https://m.yichengwlkj.com/pc/drama/55989
 
+#### 2026.1.14
+新手也能上手的AI终端开发模式 - AI测试驱动开发(AI + TDD) https://www.bilibili.com/video/BV13MpCzjEa3/
+
+Blender开挂啦❗️新手建模直接躺赢❗️https://www.bilibili.com/video/BV14frhBBECj/?spm_id_from=333.1391.0.0
+
+Blender教程丨Hyper3D.AI建模快速体验流程 https://www.bilibili.com/video/BV1JcygBBEam/
+
+《海市蜃楼》https://www.bilibili.com/video/BV1WcvsBaEoi
+
+用AI开发上线App全流程！全网最全新版TRAE教程 https://www.youtube.com/watch?v=1c5gc7admh8
+
+
+
