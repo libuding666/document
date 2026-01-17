@@ -263,7 +263,27 @@ Blender教程丨Hyper3D.AI建模快速体验流程 https://www.bilibili.com/vide
 
 我们是如何学习的？https://sspai.com/post/105224
 
+#### 2026.1.15
+干货教程：AI手办如何拆件？ https://www.bilibili.com/video/BV1u9qmBGEty/
 
+AI小智 https://xiaozhi.me/
 
+FreeRTOS https://www.freertos.org/zh-cn-cmn-s/Why-FreeRTOS
 
+RAG企业实战：从原理到落地，构建企业智能知识库 https://www.woshipm.com/ai/6323870.html
 
+#### 2026.1.16
+vector embeddings
+
+向量数据库 https://www.youtube.com/watch?v=XZ75Ky-E_HM 【视频详细演示了如何在 MySQL 环境中生成 Embedding 向量、存储并在应用层实现相似度搜索的完整流程。】
+
+sqlbot https://www.bilibili.com/video/BV1SBtizgED4/
+
+宝哥请吃饭
+
+LOL
+
+#### 2026.1.17
+AI 编程工具都在用 Agent Skills https://www.bilibili.com/video/BV1tRr6BAErJ/
+
+年赚75万？20万粉丝B站博主背后的故事...... https://www.bilibili.com/video/BV1BHkKBDE1q/
