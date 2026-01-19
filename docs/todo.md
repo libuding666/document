@@ -287,3 +287,19 @@ LOL
 AI 编程工具都在用 Agent Skills https://www.bilibili.com/video/BV1tRr6BAErJ/
 
 年赚75万？20万粉丝B站博主背后的故事...... https://www.bilibili.com/video/BV1BHkKBDE1q/
+
+
+#### 2026.1.18
+休息
+
+看剧
+
+#### 2026.1.19
+搞个税
+
+ai做狸小电网站
+
+研究国外号码注册  https://esimplus.me/
+
+
+
