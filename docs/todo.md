@@ -288,6 +288,8 @@ AI 编程工具都在用 Agent Skills https://www.bilibili.com/video/BV1tRr6BAEr
 
 年赚75万？20万粉丝B站博主背后的故事...... https://www.bilibili.com/video/BV1BHkKBDE1q/
 
+LOL
+
 
 #### 2026.1.18
 休息
@@ -301,5 +303,12 @@ ai做狸小电网站
 
 研究国外号码注册  https://esimplus.me/
 
+#### 2026.1.20
+Agent Skill 从使用到原理，一次讲清 https://www.bilibili.com/video/BV1cGigBQE6n
 
+明年经济会好吗？2026中国宏观经济展望 
 
+#### 2026.1.21
+去天鹅湖万达
+
+AI大模型基础概念扫盲篇：Agent、Token、MoE、RAG、Embedding、对齐、Transformer、预训练、微调 https://zhuanlan.zhihu.com/p/1977397410935358208

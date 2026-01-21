@@ -1,10 +1,6 @@
 ### AI
 
-##### 关键词
-
-Prompt  ReAct (Reason+Act):AI智能体
-
-##### 前沿领域
+#### 前沿领域
 
 LLM/Agent/多模态/MLOps方向
 
@@ -41,39 +37,13 @@ PRIMARY KEY (`id`) /*T![clustered_index] CLUSTERED */
 
 ````
 
-
-
 #### 名词
 
 就构成了 RAG 的灵魂：检索（Retrieval）、增强（Augmented）、生成（Generation）
 
+Prompt  ReAct (Reason+Act):AI智能体
 
 
-##### 教程
-
-Streamlit 极速搭建AI智能对话助手 https://www.bilibili.com/video/BV1w3ddYuETz/
-
-秋芝2046 https://space.bilibili.com/385670211?spm_id_from=333.788.upinfo.detail.click
-
-【隔壁的程序员老王】 原来写一个 AI Agent 这么简单 https://www.bilibili.com/video/BV1UMVKzEESL
-
-AI时代下6大应用方向，分享给在寻找创业赚钱机会的人 https://www.bilibili.com/video/BV122cweVEbB
-
-```
-我想做一个ios app，是一个ai自动记账app。
-这个app可以随意输入自然语言或者语音输入自己的消费，然后由gemini 2.5 pro模型的ai解析我的语音并且自动分类和帮我存储我的账单。
-登录和数据存储都使用supabase。
-语音功能则需要买会员，这个会员服务的购买使用stripe。
-我希望页面漂亮炫酷，是黑客帝国风格的感觉。
-
-##注意
-你只需要完成项目的生成，而不需要执行测试和构建的工作
-使用ios18.5,我会用iphone 16pro作为模拟器
-gemini、supabase和stripe都已经配置好
-除了要求的功能其他尽量保持简单。
-
-用AI开发上线App全流程！全网最全新版TRAE教程 https://www.youtube.com/watch?v=1c5gc7admh8
-```
 
 #### RAG
 
@@ -84,6 +54,9 @@ RAG 简介 https://github.com/datawhalechina/all-in-rag/blob/main/docs/chapter1/
 RAG企业实战：从原理到落地，构建企业智能知识库 https://www.woshipm.com/ai/6323870.html
 
 最全梳理：一文搞懂RAG技术的5种范式！ https://segmentfault.com/a/1190000046138023
+
+
+![RAG](./img/v2-079e376c60600660117800ba2ee0275e_1440w.jpg)
 
 ![一图看懂RAG 的基本原理](./img/2VHl2lEHORGRYMb3DQZy.webp)
 
@@ -107,12 +80,87 @@ RAG企业实战：从原理到落地，构建企业智能知识库 https://www.w
 
 PlanetScale https://www.cnblogs.com/vpofeng/articles/19124239
 
+
+
 ####  Agent Skills
 AI 编程工具都在用 Agent Skills https://www.bilibili.com/video/BV1tRr6BAErJ/
 
+Agent Skill 从使用到原理，一次讲清 https://www.bilibili.com/video/BV1cGigBQE6n
 
 
-需求
+
+####  Al Agent（智能体）
+OpenAl对Al Agent的定义是: 以大语言模型为核心驱动，具备自主感知需求、拆解任务、记忆信息、调用工具能力，能端到端完成复杂目标的智能系统。
+![Al Agent（智能体）](./img/v2-813000eae4a93789e52b23b79056e110_1440w.jpg)
+
+#### Token （tokens）
+Token是大语言模型(LLM)处理自然语言的“最小单位”，可以理解为AI眼中的“字或词”，但并非完全对应人类语言的字词一比如“人工智能”可能被拆成1个Token，而“unbelievable”可能被拆成“un_”“believe”“-able”3个Token。
+![Token （tokens）](./img/v2-3287113034164aac71ec59fce5668c0d_1440w.jpg)
+
+####  嵌入模型（Embedding Model）
+嵌入模型的核心作用，是将文本、图片、音频等非结构化数据转化为一串能被计算机理解的“数值向量”(向量维度通常为几百到几千)，且向量的“距离”能反映数据的“语义相似度”--比如“猫”和“狗”的向量距离，会比“猫”和“汽车”更近。
+![嵌入模型（Embedding Model）](./img/v2-75ea0b77321d3f88d42ebcd8e2b3a97f_1440w.jpg)
+
+####  大模型幻觉（Hallucination）
+大模型幻觉是指AI在生成内容时，自信地输出错误、虚构或不存在的信息(比如编造虚假的文献引用、错误的历史事件)，但它并非“故意说谎”，而是因为模型在训练中学习的是“语言概率分布”而非“事实真实性”--当遇到知识盲区时，会基于已有模式“合理推测”，最终导致输出偏离事实。
+![大模型幻觉（Hallucination）](./img/v2-53e6d43469875460ae99a991af54bd26_1440w.jpg)
+
+####  对齐（Alignment）
+对齐的核心目标，是让AI系统的行为、目标与人类的价值观、需求保持一致--不仅要让A1“听懂指令”，还要“理解指令背后的真实意图”，避免出现“机械执行却偏离需求”的情况(比如用户说“帮我找一篇短一点的文章”，AI不会故意找一篇超长文章，也不会找内容无关的短文)。
+![对齐（Alignment）](./img/v2-fc46e71713c4747f5932f03d2d815ab1_1440w.jpg)
+
+####  大模型（Large Model）
+大模型本质是“参数规模超大的深度学习模型”，通常拥有数十亿到数万亿个参数(参数可类比为人类大脑中的“神经元连接”)(如全网文本、图片、代码)，具备理解、生成、通过学习海量数据推理等复杂能力。
+![大模型（Large Model）](./img/v2-2cdd19bbb67eb81db2680f0618e81fe3_1440w.jpg)
+
+####  Transformer（转换器）
+如果把AI模型比作“智能手机”，那么Transformer就是“芯片”——它不直接负责“拍照”“聊天”等具体功能，而是提供“高效处理信息”的核心能力，是目前主流大模型(如GPT系列、LLaMA系列)的基础架构。
+![Transformer（转换器）](./img/v2-c19e2e0eb2cc2013d710f29d22bbca3b_1440w.jpg)
+
+####  MOE（混合专家模型）
+MOE(Mixture of Experts，混合专家模型)是一种“分而治之”的模型架构：它将大模型拆分为多个“子模型(专家)”’，每个专家专注处理某一类任务或数据(比如有的专家擅长“代码生成”，有的擅长“文本翻译”，有的擅长“逻辑推理”)，再通过一个“门控网络”，根据输入内容选择合适的专家组合来完成任务。
+![MOE（混合专家模型）](./img/v2-13da34cf2b776093104250129935269a_1440w.jpg)
+
+####   预训练(Pre-training)
+预训练是大模型的“基础学习阶段”:在这个阶段，模型会在海量无标注数据(如全网公开的文本、书籍、代码)上进行训练，目标是学习“通用知识和语言规律”--就像学生在学校学习“语文、数学、英语”等基础学科，不针对某一特定职业，而是构建广博的知识基础。
+![预训练(Pre-training)](./img/v2-81c5d381bc69068e0ea0f1b6c745d9e4_1440w.jpg)
+
+####   微调(Fine-tuning)
+微调是在“预训练基础上的定向优化”: 通过给预训练模型输入“特定领域的有标注数据”(如医疗领域的病历、法律领域的法条)，让模型专注学习某一领域的知识和任务逻辑-一就像学生在大学选择“医学专业”，通过针对性学习成为医疗领域的专家。
+![微调(Fine-tuning)](./img/v2-044f1b24555c3b3809b14fb67c399265_1440w.jpg)
+
+####   提示工程(Prompt Engineering)
+提示工程是“通过优化输入给模型的'提示词’，让模型生成更符合需求的输出”的技术--简单来说，就是“用更精准的语言'指挥’AI干活”。
+
+比如想让AI写一篇“手机测评文案”，若只说“写一篇手机测评”，输出可能杂乱无章;但如果提示“以'年轻人性价比之选’为主题，从性能、续航、外观三个维度写手机测评，每部分100字左右，语言活泼”，输出会更精准。
+![提示工程(Prompt Engineering)](./img/v2-0c65b9da3c1f0d85a0bca46fdc944588_1440w.jpg)
+
+####   MCP(模型上下文协议)
+MCP(ModelContextProtocol，模型上下文协议)是Anthropic在2024年11月推出的“开放标准”，核心作用是“统一大模型与外部工具、数据源的'通信语言’”。
+
+在此之前，不同工具(如数据库、API、第三方服务)与大模型的交互方式各不相同，开发人员需要为每个工具单独写适配代码。
+
+而MCP通过定义统一的“上下文格式”和“交互规则”，让大模型能像“用同一门语言和不同人对话一样，无缝对接数千种外部工具。
+![MCP(模型上下文协议)](./img/v2-c4f24c2fcf5f634b181e55177f274470_1440w.jpg)
+
+####   知识图谱(Knowledge Graph)
+知识图谱是“用图形化方式表示实体、关系和属性的结构化知识库”--它不像传统数据库那样“机械存储数据”，而是将知识组织成“节点(实体，如'苹果’'乔布斯’)+边(关系，如'乔布斯创立了苹果’)”的网络，让计算机能清晰理解“事物之间的关联”
+![知识图谱(Knowledge Graph)](./img/v2-d6dbcb40ec59d04b2ca150fd9dd7ebda_1440w.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 需求
 
 实现“AI 搜索花卉并匹配 MySQL 数据库商品”的核心技术路径是 **向量搜索（Vector Search）**。
 
@@ -182,4 +230,39 @@ RAG 通过嵌入模型将用户问题与知识库文本转化为语义向量并�
 
 这里我们发现，默认的嵌入模型和重排模型已经帮我们配置好了，这里应该是 “百智云” 给这个产品提供了赞助，默认提供了一些免费额度。不过嵌入模型和重排模型其实在整个 RAG 检索的过程中 Token 消耗量是非常小的，所以这里我们用默认的免费额度就可以用非常久了。
 
+AI大模型基础概念扫盲篇：Agent、Token、MoE、RAG、Embedding、对齐、Transformer、预训练、微调 https://zhuanlan.zhihu.com/p/1977397410935358208
 
+
+
+####  教程
+
+Streamlit 极速搭建AI智能对话助手 https://www.bilibili.com/video/BV1w3ddYuETz/
+
+秋芝2046 https://space.bilibili.com/385670211?spm_id_from=333.788.upinfo.detail.click
+
+【隔壁的程序员老王】 原来写一个 AI Agent 这么简单 https://www.bilibili.com/video/BV1UMVKzEESL
+
+AI时代下6大应用方向，分享给在寻找创业赚钱机会的人 https://www.bilibili.com/video/BV122cweVEbB
+
+```
+我想做一个ios app，是一个ai自动记账app。
+这个app可以随意输入自然语言或者语音输入自己的消费，然后由gemini 2.5 pro模型的ai解析我的语音并且自动分类和帮我存储我的账单。
+登录和数据存储都使用supabase。
+语音功能则需要买会员，这个会员服务的购买使用stripe。
+我希望页面漂亮炫酷，是黑客帝国风格的感觉。
+
+##注意
+你只需要完成项目的生成，而不需要执行测试和构建的工作
+使用ios18.5,我会用iphone 16pro作为模拟器
+gemini、supabase和stripe都已经配置好
+除了要求的功能其他尽量保持简单。
+
+用AI开发上线App全流程！全网最全新版TRAE教程 https://www.youtube.com/watch?v=1c5gc7admh8
+
+
+Agent Skills | 菜鸟教程： https://www.runoob.com/claude-code/claude-agent-skills.html 
+TRAE CN技能使用:  https://docs.trae.cn/ide/skills 
+官方开源的skills：  https://github.com/anthropics/skills 
+规范： https://agentskills.io/home 
+Skills市场： https://skillsmp.com
+```
