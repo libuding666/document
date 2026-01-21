@@ -312,3 +312,12 @@ Agent Skill 从使用到原理，一次讲清 https://www.bilibili.com/video/BV1
 去天鹅湖万达
 
 AI大模型基础概念扫盲篇：Agent、Token、MoE、RAG、Embedding、对齐、Transformer、预训练、微调 https://zhuanlan.zhihu.com/p/1977397410935358208
+
+Google Colab https://colab.research.google.com/
+
+Dify https://dify.ai/zh
+
+Browse AI https://www.browse.ai/
+
+
+
