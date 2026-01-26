@@ -338,3 +338,29 @@ nizima LIVE  https://nizimalive.com/en/
 | **技术重心** | 语音识别精度 & 姿态检测算法 | 多模态记忆生成 & 实时语音合成 |
 | **交互频率** | 低频、长时、生活化          | 高频、碎片、戏剧化            |
 | **设计禁忌** | 复杂操作、生冷机械声        | 回复死板、记忆重置            |
+
+#### 2026.1.23
+微雪 ESP32-S3 7.3寸全彩墨水屏相框 ，可AI语音交互+文生图多功能相册  https://www.bilibili.com/video/BV1Tfk5BtEtr/
+
+微雪电子  https://www.waveshare.net/
+
+千元级开源AI机械臂原理解析 https://www.bilibili.com/video/BV1A2MyzuEfr
+
+通过 Chat SDK 搭建网页在线客服 https://docs.coze.cn/tutorial/chat_sdk_web_online_customer_service
+
+#### 2026.1.24
+休息
+
+跟老弟聊上次见面妹子的问题
+
+跟鑫哥沟通再次跟妹子见面的事情
+
+#### 2026.1.25
+休息
+
+给老吴搬家
+
+#### 2026.1.26
+我封装了剪映剪辑skill，AI全自动接管剪映完成剪辑！ https://www.bilibili.com/video/BV1hLzCBzEDS/ 
+
+调教Trae CN 根据 接口文档 生成 后台管理系统 
