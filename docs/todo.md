@@ -364,3 +364,48 @@ nizima LIVE  https://nizimalive.com/en/
 我封装了剪映剪辑skill，AI全自动接管剪映完成剪辑！ https://www.bilibili.com/video/BV1hLzCBzEDS/ 
 
 调教Trae CN 根据 接口文档 生成 后台管理系统 
+
+#### 2026.1.27
+【老戴】我用 AI 分析了500G照片库，做了一个“会自己选图”的电子相框 https://www.bilibili.com/video/BV1KczbBXEeC/ 【https://github.com/dai-hongtao/InkTime 】
+
+#### 2026.1.28
+Clawdbot 
+https://clawd.bot/ https://github.com/clawdbot/clawdbot【官网】  
+
+https://docs.molt.bot/start/getting-started 【教程】  
+
+https://blog.csdn.net/hzm8341/article/details/157433960
+
+https://zhuanlan.zhihu.com/p/1999524848402179955 
+
+https://github.com/xianyu110/clawbot
+
+https://clawdhub.com/skills 【clawdhub】 
+
+```
+启动命令
+clawdbot gateway --verbose
+```
+
+#### 2026.1.29
+别让AI再当好人了，干活干活给我去干活！ https://www.bilibili.com/video/BV1QEkuBJESc/
+
+科幻照进现实，人类如何自处 https://yixi.tv/#/speech/detail?id=1392
+
+三代母亲的养育故事 https://yixi.tv/#/speech/detail?id=1396
+
+追风 https://yixi.tv/#/speech/detail?id=1386
+
+#### 2026.1.30
+误闯天家，深入解析国务院研究部长万字长文《AI、就业和社保》https://www.bilibili.com/video/BV14hzsB2EBW/
+
+聊一下AI时代怎么选取信息源 https://www.bilibili.com/video/BV1xr6GB5EnH/
+
+上个月b站收入7000元，聊聊做up主 https://www.bilibili.com/video/BV1QG411f7Vn/
+
+出海做数字产品，从0到第一笔美金睡后收入（实操分享） https://www.bilibili.com/video/BV1ArkeBrEXx/
+
+Markdown Formatter - VS Code 插件 
+
+
+
