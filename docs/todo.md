@@ -405,7 +405,19 @@ clawdbot gateway --verbose
 
 出海做数字产品，从0到第一笔美金睡后收入（实操分享） https://www.bilibili.com/video/BV1ArkeBrEXx/
 
-Markdown Formatter - VS Code 插件 
+Markdown Formatter - VS Code 插件  https://gitee.com/xbdsky/budingadmin/tree/master/vscode/markdown-formatter
+
+2026年的机会在哪儿  https://www.bilibili.com/video/BV15Di1BkEGa/ 
+
+一人公司 OPC：AI 时代可以如何生存？ https://www.bilibili.com/video/BV1VSkjBGEoN/
+
+#### 2026.1.31
+普通人赚钱，不能靠风口 https://www.bilibili.com/video/BV1J5z7B5EFV/
+
+#### 2026.2.1
+人形机器人2026大洗牌：谁将裸泳，谁将吃肉？| 产业链深度拆解 https://www.bilibili.com/video/BV1u2zWB2E3s/
+
+【基德】人形机器人为什么注定失败？ https://www.bilibili.com/video/BV1gNsHzdEcR/
 
 
 

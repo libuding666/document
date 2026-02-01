@@ -21,15 +21,13 @@
 
 - **工具**：PandaWiki、LlamaIndex Cloud、ChatDOC
 
-- 步骤
-
-  ：
+- 步骤：
 
   1. 注册并登录平台
   2. 上传你的 PDF、Word、Markdown 等学习资料
   3. 系统自动解析并建立知识库
   4. 直接在网页上用聊天框提问
-
+  
 - **优点**：无需编程，几分钟就能用
 
 - **缺点**：功能受限，数据可能存储在云端
@@ -40,15 +38,13 @@
 
 - **工具**：Docker + LlamaIndex / LangChain + Milvus / ChromaDB + 本地 LLM（如 Qwen、LLaMA）
 
-- 步骤
-
-  ：
+- 步骤：
 
   1. 安装 Docker
   2. 部署向量数据库（如 ChromaDB）
   3. 用 Python 脚本将文档转成向量并存储
   4. 调用本地或 API 模型进行问答
-
+  
 - **优点**：数据完全本地，安全可控
 
 - **缺点**：需要一定技术基础
@@ -59,14 +55,12 @@
 
 - **工具**：OpenAI API / DeepSeek API + Pinecone / Weaviate + Streamlit 前端
 
-- 步骤
-
-  ：
+- 步骤：
 
   1. 将文档向量化并存储在云端数据库
   2. 用 API 调用大模型进行问答
   3. 用 Streamlit 做一个网页聊天界面
-
+  
 - **优点**：性能好，支持多人访问
 
 - **缺点**：需要 API 费用
