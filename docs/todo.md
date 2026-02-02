@@ -419,5 +419,10 @@ Markdown Formatter - VS Code 插件  https://gitee.com/xbdsky/budingadmin/tree/m
 
 【基德】人形机器人为什么注定失败？ https://www.bilibili.com/video/BV1gNsHzdEcR/
 
+#### 2026.2.2
+Transformer是什么？https://www.bilibili.com/video/BV1G4iMBeEWH
+
+45分钟吃透Skills原理  https://www.bilibili.com/video/BV1QN6FBnERf/
+
 
 
