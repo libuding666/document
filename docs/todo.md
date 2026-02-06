@@ -424,5 +424,36 @@ Transformer是什么？https://www.bilibili.com/video/BV1G4iMBeEWH
 
 45分钟吃透Skills原理  https://www.bilibili.com/video/BV1QN6FBnERf/
 
+#### 2026.2.3
+安装AI-SDK 
+
+```
+https://nextjs-docs-henna-six.vercel.app/tutorials/ai
+npm i ai @ai-sdk/deepseek @ai-sdk/react
+https://ai-sdk.dev/docs/getting-started/nextjs-app-router
+```
+如何从0-1做跨境电商？ https://www.bilibili.com/video/BV1RYqHYnEw8/
+
+#### 2026.2.4
+零成本搭建一个自己的个人博客，还带CMS？Cloudflare的恩情还不完！https://www.bilibili.com/video/BV1X364BcE7a/
+
+Qwen3-ASR：开箱即用的离线语音识别 https://www.bilibili.com/video/BV19RFTzZEoD/
+
+Banana Pro实战案例-重庆某旧钢厂改造投标方案 https://www.bilibili.com/video/BV1a5FNzEEhp/
+
+#### 2026.2.5
+休息 
+
+adsense副业教学】cloudflare搭建副业网站并集成adsense获利（在线导航工具网站）https://www.bilibili.com/video/BV18GBHBMEvo
+
+https://github.com/HKUDS
+
+https://github.com/RSSNext/Folo 
+
+#### 2026.2.6
+Antdv Next v1.0 发布  https://www.antdv-next.com/
+
+antdv-next-demo 
+
 
 
