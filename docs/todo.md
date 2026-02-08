@@ -455,5 +455,18 @@ Antdv Next v1.0 发布  https://www.antdv-next.com/
 
 antdv-next-demo 
 
+skillsmp https://skillsmp.com/zh
+
+Agent Skills 做知识库检索，能比传统 RAG 效果更好吗？ https://www.bilibili.com/video/BV1RkFAznESD/
+
+MrRSS项目 
+
+#### 2026.2.7
+聚餐 休息
+
+#### 2026.2.8
+聚餐 休息
+
+
 
 
