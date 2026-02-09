@@ -467,6 +467,32 @@ MrRSS项目
 #### 2026.2.8
 聚餐 休息
 
+#### 2026.2.9
+夯爆or拉完？一期看完互联网大厂2025全年“战绩” https://www.bilibili.com/video/BV1p6FrzTEHH/
+
+美团犯了什么错？阿里这么狠，连续出招不留活路 https://www.bilibili.com/video/BV1x8p7zKE2L/
+
+[开源]2杯奶茶钱，手搓linux板不是梦 https://www.bilibili.com/video/BV1CsFZzHEmz/
+
+AI 赋能全栈开发 https://www.bilibili.com/video/BV1ZnqEB3Eyh
+
+AI Agent 工作原理 https://www.runoob.com/ai-agent/ai-agent-working-principle.html
+
+AI 只会淘汰不用 AI 的程序员 https://juejin.cn/post/7585022810181222463
+
+年薪 50W 的前端，到底比年薪 15W 的强在哪里？ https://juejin.cn/post/7591744411740372992
 
 
+
+```
+LangChain JS https://js.langchain.com.cn/docs/
+
+prisma https://prisma.org.cn/docs
+
+Zod https://zod.nodejs.cn/
+
+PostgreSQL https://www.runoob.com/postgresql/postgresql-tutorial.html
+
+https://github.com/anthropics/skills
+```
 
