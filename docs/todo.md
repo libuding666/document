@@ -483,7 +483,6 @@ AI 只会淘汰不用 AI 的程序员 https://juejin.cn/post/7585022810181222463
 年薪 50W 的前端，到底比年薪 15W 的强在哪里？ https://juejin.cn/post/7591744411740372992
 
 
-
 ```
 LangChain JS https://js.langchain.com.cn/docs/
 
@@ -495,4 +494,39 @@ PostgreSQL https://www.runoob.com/postgresql/postgresql-tutorial.html
 
 https://github.com/anthropics/skills
 ```
+#### 2026.2.10
+【2025年最新】NestJS零基础入门到实战项目部署全课程，一天快速精通NestJS
+https://www.bilibili.com/video/BV1r9YYzcEr4/
+
+#### 2026.2.11
+吊打付费】这可能是B站唯一将LangChain入门到实战讲明白的教程https://www.bilibili.com/video/BV1sDFQzgEqs/
+
+聚餐
+
+#### 2026.2.12
+回老家
+
+#### 2026.2.13
+![项目搭建](./img/ScreenShot_2026-02-13_140924_966.png)
+![ai可以用的方向](./img/ScreenShot_2026-02-13_140629_637.png)
+
+monorepo 
+https://monorepo.tools/
+https://docs.alexsun.top/public/frontend/engineering/monorepo/
+https://juejin.cn/post/7215886869199896637
+https://www.sanmustudy.cn/docs/engine/Monorepo%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%8C%E4%BB%8E0%E5%88%B01%E5%B8%A6%E4%BD%A0%E9%85%8D%E7%BD%AE
+
+
+
+ollama
+
+https://ollama.com/library/nomic-embed-text
+
+https://ollama.com/library/qwen3:0.6b
+
+
+
+https://www.bilibili.com/video/BV1r9YYzcEr4/?spm_id_from=333.1391.0.0&vd_source=611c52b27c89f48d96d94e3dac50a33d
+
+
 
