@@ -542,3 +542,20 @@ https://ollama.com/library/qwen3:0.6b
 
 #### 2026.3.4
 上午去国医堂扎针
+
+做自媒体如何用AI作弊？ https://www.bilibili.com/video/BV1qSc4zoE2H/
+
+2年从油管赚了17万 https://www.bilibili.com/video/BV1NyFsz8ETV/
+
+外贸全流程简易版 https://www.youtube.com/watch?v=EM4sbsW7bks
+![外贸全流程简易版1](./img/ScreenShot_2026-03-04_154249_994.png)
+
+![外贸全流程简易版2](./img/ScreenShot_2026-03-04_155332_256.png)
+
+![外贸全流程简易版3](./img/ScreenShot_2026-03-04_161027_591.png)
+
+6步从小白到CEO的外贸全流程 https://www.youtube.com/watch?v=aY94j-drdYM
+
+
+90后小伙用AI帮人获客，三年创造20亿GMV https://www.youtube.com/watch?v=496-Hg4kHXA
+
