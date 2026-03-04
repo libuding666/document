@@ -517,16 +517,28 @@ https://juejin.cn/post/7215886869199896637
 https://www.sanmustudy.cn/docs/engine/Monorepo%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%8C%E4%BB%8E0%E5%88%B01%E5%B8%A6%E4%BD%A0%E9%85%8D%E7%BD%AE
 
 
-
 ollama
-
 https://ollama.com/library/nomic-embed-text
-
 https://ollama.com/library/qwen3:0.6b
 
+#### 2026.2.14 - 2026.2.25
+老家过年
 
+#### 2026.2.26 - 2026.2.27
+颈椎不舒服
 
-https://www.bilibili.com/video/BV1r9YYzcEr4/?spm_id_from=333.1391.0.0&vd_source=611c52b27c89f48d96d94e3dac50a33d
+#### 2026.2.28
+还信用卡 建行锁卡
 
+#### 2026.3.1
+去金寨南路支行 没开门 
 
+#### 2026.3.2
+去金寨南路支行 建行卡解锁 
 
+#### 2026.3.3
+上午 申请解锁资料
+下午 万科森林公园旭庭换电池(4820)
+
+#### 2026.3.4
+上午去国医堂扎针
