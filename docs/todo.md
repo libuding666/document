@@ -556,6 +556,32 @@ https://ollama.com/library/qwen3:0.6b
 
 6步从小白到CEO的外贸全流程 https://www.youtube.com/watch?v=aY94j-drdYM
 
-
 90后小伙用AI帮人获客，三年创造20亿GMV https://www.youtube.com/watch?v=496-Hg4kHXA
 
+普通人如何靠信息差赚钱 https://www.youtube.com/watch?v=e0lOwx1cliA
+
+#### 2026.3.5
+GLM-5 一战封神，如何用他构建全自动开发系统？https://www.bilibili.com/video/BV1zZcYz1EMy
+源代码：https://github.com/SamuelQZQ/auto-coding-agent-demo
+
+全自动客服和编程！便宜！夯爆！MiniMax M2.5！ https://www.bilibili.com/video/BV19vASzpEjX/
+
+入局AI漫剧/AI短剧 我的试错经历分享 https://www.bilibili.com/video/BV13xPLzxEJ3/
+
+小红书卖食材图，挣了35w，在家可以做的副业项目 https://www.bilibili.com/video/BV1g4fqBiEdg/
+
+xiaozhi-client 2.0.0 支持本地语音互动功能 https://www.bilibili.com/video/BV16qPuzXEUK/
+
+#### 2026.3.6
+openclaw安装教程 https://www.bilibili.com/video/BV1eyPNzYEJR/
+
+#### 2026.3.7 - 3.8
+修电脑 电脑cpu100% 驱动问题
+
+#### 2026.3.9
+OpenClaw Windows 安装与 Debug 最终版教程（适用于 MiniPC i3-N305 / 无 GPU）https://www.cnblogs.com/leezx/p/19559613
+
+在云端秒级部署OpenClaw全能助手 https://cloud.tencent.com/act/pro/lighthouse-moltbot
+
+我把小红书交给 OpenClaw，它开始自己干活了
+https://cloud.tencent.com/developer/article/2629870
