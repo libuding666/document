@@ -32,8 +32,14 @@ https://mp.weixin.qq.com/s/TeSSBXJs2IFp4lWf5YDqDQ
 外贸全流程简易版 https://www.youtube.com/watch?v=EM4sbsW7bks
 
 #### OpenClaw
+
+![OpenClaw](./img/ScreenShot_2026-03-09_112037_206.png)
+
 官网 https://docs.openclaw.ai/
 
 入门指南https://openclaw.cc/start/getting-started 
 
 【OpenClaw】启动报错 disconnected (1008): unauthorized: gateway token mismatch https://zhuanlan.zhihu.com/p/2011809851194512137
+
+Openclaw驾驶舱 https://www.bilibili.com/video/BV1t4NMzvExC/
+
