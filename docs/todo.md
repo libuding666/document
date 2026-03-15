@@ -385,6 +385,7 @@ https://clawdhub.com/skills 【clawdhub】
 ```
 启动命令
 clawdbot gateway --verbose
+openclaw gateway --verbose
 ```
 
 #### 2026.1.29
@@ -633,4 +634,25 @@ awesome-openclaw-skills https://github.com/VoltAgent/awesome-openclaw-skills
 效率X10！我开源了一个OpenClaw的控制中心 https://www.bilibili.com/video/BV1kDckzGEMm/
 https://github.com/TianyiDataScience/openclaw-control-center
 
+#### 2026.3.14
+颈椎不舒服
+晚上聚餐 
+LOL
+
+#### 2026.3.15
+GitHub 3 万星标！由 55 个 AI Agent 组成的虚拟公司正式开源，可直接部署体验！https://www.bilibili.com/video/BV1BwwJz6Ehi/
+
+The Agency：AI 专家团队
+触手可及的完整 AI 代理机构 —— 61+ 个专业领域代理，每个都拥有独特个性、专业流程和成熟交付成果。https://github.com/msitarzewski/agency-agents https://github.com/dsclca12/agent-teams
+
+我把 OpenClaw 最难受的几个坑，做成了一个优化skill https://www.bilibili.com/video/BV1qacUzUE3t/
+
+Clawhub上万skill，装这7个就够了 https://www.bilibili.com/video/BV1XswWz3EVU
+
+自带5000+ Skills？13分钟用Kimi+OpenClaw打造超最甜AI助手 https://www.youtube.com/watch?v=VJKfu-jbobc
+
+
+```
+请你帮我安装以下 skill，分别是 Skill Vetter、Tavily Search、Summarize、Playwright、Find skill、skill Creator、Self-Improving Agent，可以去 clawhub 以及 github 上寻找来源
+```
 
