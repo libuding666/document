@@ -640,6 +640,9 @@ https://github.com/TianyiDataScience/openclaw-control-center
 LOL
 
 #### 2026.3.15
+
+卖破烂
+
 GitHub 3 万星标！由 55 个 AI Agent 组成的虚拟公司正式开源，可直接部署体验！https://www.bilibili.com/video/BV1BwwJz6Ehi/
 
 The Agency：AI 专家团队
@@ -651,8 +654,54 @@ Clawhub上万skill，装这7个就够了 https://www.bilibili.com/video/BV1XswWz
 
 自带5000+ Skills？13分钟用Kimi+OpenClaw打造超最甜AI助手 https://www.youtube.com/watch?v=VJKfu-jbobc
 
+用AI开款，塑料盒赚了3600万，十个月干成行业第一 https://www.youtube.com/watch?v=FenT4u7u-Hk
 
 ```
 请你帮我安装以下 skill，分别是 Skill Vetter、Tavily Search、Summarize、Playwright、Find skill、skill Creator、Self-Improving Agent，可以去 clawhub 以及 github 上寻找来源
+
+XiaohongshuSkills：https://github.com/white0dew/XiaohongshuSkills
+ppt-generator：https://clawhub.ai/wwlyzzyorg/ppt-generator
+frontend design：https://clawhub.ai/ivangdavila/frontend
+awesome-openclaw-usecases：https://github.com/hesamsheikh/awesome-openclaw-usecases
+baoyu-skills：https://github.com/JimLiu/baoyu-skills
 ```
+
+#### 2026.3.16
+🚀让OpenClaw实现真正自我进化！让龙虾越用越聪明！memory-lancedb-pro记忆插件
+https://www.bilibili.com/video/BV1iWwtztEQf/
+
+用过上百款编程MCP，只有这15个真正好用，Claude Code与Codex配置MCP详细教程 https://www.youtube.com/watch?v=UW5iQGE3264
+
+用 OpenClaw 自动化采集阿里巴巴产品，AI 赋能 WordPress 全自动上货，完美实现“去 AI 化”深度洗稿。 https://www.youtube.com/watch?v=6tNaARsq7kA
+
+零基础OpenClaw系统教程：安装、实操、降本、AI团队搭建 https://www.youtube.com/watch?v=io5mUck9Z24
+
+20 行代码彻底搞懂OpenClaw https://www.youtube.com/watch?v=WxDCQhKCS7g
+
+OpenClaw 实用场景合集，真实落地案例演示 小红书+公众号+PPT网页+财报自动一条龙 https://www.bilibili.com/video/BV1bQwszrEwN/
+
+#### 2026.3.17
+下雨，养病
+
+#### 2026.3.18
+上午去医院
+熟悉狸小电代码
+
+#### 2026.3.19
+上午不舒服
+
+下午搞个税
+
+沟通滨湖驻点
+
+安装测试QClaw
+
+【吴恩达】2026年公认最好的【Agent智能体】教程 https://www.bilibili.com/video/BV1DfrdByE2H
+
+AgentX 采用了自研 MCP 网关，模型高可用组件打造高可用 https://github.com/lucky-aeon/AgentX
+
+
+
+
+
 
