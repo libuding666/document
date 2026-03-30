@@ -7,6 +7,7 @@ mcy-shop https://wiki.mcy.im/#/zh-cn/started/cli-install
 ```
 
 
+
 #### 好的up主
 
 有点在李 https://space.bilibili.com/1132916
@@ -34,6 +35,8 @@ https://mp.weixin.qq.com/s/TeSSBXJs2IFp4lWf5YDqDQ
 
 外贸全流程简易版 https://www.youtube.com/watch?v=EM4sbsW7bks
 
+
+
 #### OpenClaw
 
 ![OpenClaw](./img/ScreenShot_2026-03-09_112037_206.png)
@@ -45,4 +48,22 @@ https://mp.weixin.qq.com/s/TeSSBXJs2IFp4lWf5YDqDQ
 【OpenClaw】启动报错 disconnected (1008): unauthorized: gateway token mismatch https://zhuanlan.zhihu.com/p/2011809851194512137
 
 Openclaw驾驶舱 https://www.bilibili.com/video/BV1t4NMzvExC/
+
+
+
+####  Skills
+
+ClawHub 小红书 Skills 完整盘点：136 个技能分类梳理 https://clawhub-skills.com/blog/xiaohongshu-skills-complete-guide
+
+139个完整的小红书运营技能 - Claude Code 技能插件系统 https://github.com/vivy-yi/xiaohongshu-skills
+
+支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等 https://github.com/white0dew/XiaohongshuSkills
+
+https://openclaw-cli.app/
+
+https://www.skill-cn.com/
+
+
+
+
 

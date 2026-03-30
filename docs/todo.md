@@ -710,6 +710,60 @@ Claude Code 免费从入门到精通 https://claudecode.tangshuang.net/
 
 纯干货：多语博主教你利用AI，自学外语「完全攻略」 https://www.bilibili.com/video/BV1c5XNYWEH8/
 
+#### 2026.3.20
+不舒服休息
+删除win11电脑垃圾，调优
+
+聊openclaw
+
+搞小程序认证
+
+#### 2026.3.21
+2025最新版：基于Cloudflare Tunnel的内网穿透实战指南
+https://blog.leihub.cn/archives/873
+
+深度解析：如何让 OpenClaw Multi-Agent 系统实现自我发现、自修复与持续进化？ https://www.bilibili.com/video/BV1jNwQzZEHt/
+
+#### 2026.3.22
+休息
+
+#### 2026.3.23
+00后靠AI漫剧副业月入5位数提前退休！90后还在拿4-5K死工资 https://www.bilibili.com/video/BV1aFP5zWEmw/?spm_id_from=333.1391.0.0
+
+uni-app 调试学习
+
+#### 2026.3.24
+添加微信小程序开发者 【后面没扫码成功】
+
+#### 2026.3.25
+修电脑
+
+拉肚子休息
+
+#### 2026.3.26
+小程序年审 不是管理员提交不了
+
+#### 2026.3.27
+晚上开会
+
+修电脑 不能识别显卡
+
+#### 2026.3.28
+周末
+
+修电脑
+
+#### 2026.3.29
+周末
+
+研究 z-pay支付
+
+中午帮老杨帮床垫 
+
+#### 2026.3.30
+扒 https://catpaw.meituan.com/ 页面
+
+
 
 
 
