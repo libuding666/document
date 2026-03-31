@@ -775,10 +775,7 @@ AI没裁掉老员工，却堵死了年轻人的路？| 2026年Anthropic AI就业
 
 2026 前端终极转型指南【前端大革命 ALL IN AI】7天带你从 Vue/React 到 AI 全栈架构师 https://www.bilibili.com/video/BV1fGwqzdES5/
 
-
-
-
-
+稳定用了一周的 Claude Code https://v2ex.com/t/1202318#reply27
 
 
 
