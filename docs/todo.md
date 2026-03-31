@@ -763,6 +763,19 @@ uni-app 调试学习
 #### 2026.3.30
 扒 https://catpaw.meituan.com/ 页面
 
+程序员就业寒冬已过，2026年计算机真实就业现状！ https://www.bilibili.com/video/BV16RFfzSEwv
+
+AI没裁掉老员工，却堵死了年轻人的路？| 2026年Anthropic AI就业报告全解读 https://www.bilibili.com/video/BV1zBX5BMEDL/
+
+
+#### 2026.3.31
+上午去包河区税务局
+
+再见了龙虾！AstrBot安装使用指南（终极版）https://www.bilibili.com/video/BV13rXKBPEFb/
+
+2026 前端终极转型指南【前端大革命 ALL IN AI】7天带你从 Vue/React 到 AI 全栈架构师 https://www.bilibili.com/video/BV1fGwqzdES5/
+
+
 
 
 
