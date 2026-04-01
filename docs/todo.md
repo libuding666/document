@@ -785,6 +785,8 @@ Github Pages搭建可以长期赚被动收入的AdSense副业网站 https://www.
 
 粉丝投稿：闲鱼虚拟电商配合网盘拉新 https://www.bilibili.com/video/BV19vQ1B2EuF/
 
+【零成本副业】用Vercel免费服务，搭建自动赚钱的AdSense副业网站 https://www.bilibili.com/video/BV17H6xBvEvS
+
 
 
 

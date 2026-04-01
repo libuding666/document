@@ -18,6 +18,9 @@ mcy-shop https://wiki.mcy.im/#/zh-cn/started/cli-install
 
 小白debug https://www.bilibili.com/video/BV1G4iMBeEWH/
 
+Chestnut栗子_ https://space.bilibili.com/13578865
+
+秋芝2046 https://space.bilibili.com/385670211
 
 
 #### 外贸
@@ -67,6 +70,7 @@ https://www.skill-cn.com/
 ####  方案
 用免费的 
 1、github pages  2、vercel  3、Notion
+
 github pages https://github.com/
 
 vercel https://vercel.com/
