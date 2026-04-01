@@ -64,6 +64,33 @@ https://openclaw-cli.app/
 https://www.skill-cn.com/
 
 
+####  方案
+用免费的 
+1、github pages  2、vercel  3、Notion
+github pages https://github.com/
+
+vercel https://vercel.com/
+
+Notion https://www.notion.com/
+
+2、技术专家 免费ai导航 
+
+3、参考思路
+Github Pages搭建可以长期赚被动收入的AdSense副业网站 https://www.bilibili.com/video/BV11jNuzcE1g/
+
+Notion 官网：https://www.notion.com/
+
+我的 Notion 网站结构参考：https://chestnutzoe.my.canva.site/
+
+模板链接：https://chestnutzoe.notion.site/Notion-12506ea2995945a0b36aeb63bda41b33
+
+申请创作者福利（免费一年的Notion Plus + Notion AI）：https://www.notion.so/creators
+
+
+
+
+
+
 
 
 

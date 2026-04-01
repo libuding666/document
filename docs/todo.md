@@ -767,7 +767,6 @@ uni-app 调试学习
 
 AI没裁掉老员工，却堵死了年轻人的路？| 2026年Anthropic AI就业报告全解读 https://www.bilibili.com/video/BV1zBX5BMEDL/
 
-
 #### 2026.3.31
 上午去包河区税务局
 
@@ -776,6 +775,17 @@ AI没裁掉老员工，却堵死了年轻人的路？| 2026年Anthropic AI就业
 2026 前端终极转型指南【前端大革命 ALL IN AI】7天带你从 Vue/React 到 AI 全栈架构师 https://www.bilibili.com/video/BV1fGwqzdES5/
 
 稳定用了一周的 Claude Code https://v2ex.com/t/1202318#reply27
+
+#### 2026.4.1
+投简历
+
+别投简历了，10分钟上线一人公司官网，让客户主动找上门 https://www.bilibili.com/video/BV1BmcfzEEB3/
+
+Github Pages搭建可以长期赚被动收入的AdSense副业网站 https://www.bilibili.com/video/BV11jNuzcE1g/
+
+粉丝投稿：闲鱼虚拟电商配合网盘拉新 https://www.bilibili.com/video/BV19vQ1B2EuF/
+
+
 
 
 
