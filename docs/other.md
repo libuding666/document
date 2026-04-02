@@ -23,6 +23,7 @@ Chestnut栗子_ https://space.bilibili.com/13578865
 秋芝2046 https://space.bilibili.com/385670211
 
 
+
 #### 外贸
 外贸soho https://zhuanlan.zhihu.com/p/390701572
 
@@ -69,13 +70,19 @@ https://www.skill-cn.com/
 
 ####  方案
 用免费的 
-1、github pages  2、vercel  3、Notion
+1、github pages  2、vercel  3、Notion 4、Netlify
 
 github pages https://github.com/
 
 vercel https://vercel.com/
 
 Notion https://www.notion.com/
+
+Netlify https://www.netlify.com/
+
+腾讯云Webify https://webify.cloudbase.net/
+
+部署平台 https://vitejs.cn/vite3-cn/guide/static-deploy.html
 
 2、技术专家 免费ai导航 
 
@@ -89,8 +96,6 @@ Notion 官网：https://www.notion.com/
 模板链接：https://chestnutzoe.notion.site/Notion-12506ea2995945a0b36aeb63bda41b33
 
 申请创作者福利（免费一年的Notion Plus + Notion AI）：https://www.notion.so/creators
-
-
 
 
 

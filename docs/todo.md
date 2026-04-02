@@ -787,6 +787,14 @@ Github Pages搭建可以长期赚被动收入的AdSense副业网站 https://www.
 
 【零成本副业】用Vercel免费服务，搭建自动赚钱的AdSense副业网站 https://www.bilibili.com/video/BV17H6xBvEvS
 
+兼职网站挂谷歌广告
+ai导航 ai工具 ai漫剧 啥的
+
+#### 2026.4.2
+部署平台 https://vitejs.cn/vite3-cn/guide/static-deploy.html
+
+vue3简单后台
+
 
 
 
