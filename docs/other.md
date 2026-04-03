@@ -97,7 +97,8 @@ Notion 官网：https://www.notion.com/
 
 申请创作者福利（免费一年的Notion Plus + Notion AI）：https://www.notion.so/creators
 
-
+4、参考源码
+https://github.com/liyown/ai-navigation
 
 
 
