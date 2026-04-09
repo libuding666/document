@@ -1103,6 +1103,12 @@ https://github.com/WebStackPage/WebStackPage.github.io
 
 6.Toonflow https://github.com/HBAI-Ltd/Toonflow-app https://toonflow.net/#/
 
+opencode部署及skills安装教程 https://www.bilibili.com/video/BV13DcrzWEps/
+
+开源 AI 编程神器 OpenCode 实测！多模型无缝切换，新手也能快速上手开发 https://www.bilibili.com/video/BV1PiXaBYECB/
+
+
+
 
 
 
