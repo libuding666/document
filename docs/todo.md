@@ -1110,6 +1110,42 @@ opencode部署及skills安装教程 https://www.bilibili.com/video/BV13DcrzWEps/
 
 
 
+#### 2026.4.4 - 4.6
+放假
+
+
+
+
+#### 2026.4.7 - 4.8
+颈椎一直不舒服
+
+
+
+#### 2026.4.9
+
+完善vue-admin demo
+
+给亮哥修电脑
+
+
+#### 2026.4.10
+一期视频精通Supabase，顶级后端开源项目，实战教程+本地部署 https://www.youtube.com/watch?v=eTb-Qjwt-zQ
+
+cloudflare worker是什么？ https://www.youtube.com/watch?v=2BfZO_LT6jA
+
+awesome-design-md | 一键复刻大厂设计规范 https://www.bilibili.com/video/BV1xFSfBwE9R/
+仓库：https://github.com/VoltAgent/awesome-design-md
+
+8点半-9点半开会 小龙虾交流会
+
+
+#### 2026.4.11
+休息
+
+#### 2026.4.12
+明亮哥指导安装龙虾
+
+
 
 
 
