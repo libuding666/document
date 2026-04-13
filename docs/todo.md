@@ -1161,6 +1161,22 @@ Hermes Agent 新手使用十大技巧 https://www.youtube.com/watch?v=hLiN_X7dzd
 
 aistudio.google.com/apps 生成茶叶网站
 
+提交个体户个税
+
+喂饭，opc cli开源，剪口播、特效字幕、语音合成、等技能持续更新中...顺便聊下asr,tts中藏着的商业价值 https://www.youtube.com/watch?v=f6JXPVbH5LU
+
+一键搭建自己的全球住宅ISP机场节点-后翻墙时代来了 https://www.youtube.com/watch?v=3hQ4eF4OJVQ
+
+免费白嫖 Qwen3.6 Plus！OpenRouter 接入 OpenClaw，1M 上下文模型终于能用了 https://www.youtube.com/watch?v=BRQPqchpM2w&t=563s
+
+【一周实测】Google 放大招？Gemma 4 在 iPhone 断网运行，结果太意外了！| Human Beta Lab
+https://www.youtube.com/watch?v=a4BhioElUY4
+
+当我抛弃Win11转用Linux，如何办公，学习，打游戏？ https://www.youtube.com/watch?v=cSO8JSOOVoA
+
+
+
+
 
 
 
