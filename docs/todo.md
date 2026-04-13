@@ -1145,6 +1145,25 @@ awesome-design-md | 一键复刻大厂设计规范 https://www.bilibili.com/vide
 #### 2026.4.12
 明亮哥指导安装龙虾
 
+整理k40手机图片
+
+图片压缩网站 https://small.im/zh-hans
+
+免费开源！OpenClaw 进化版来了！Hermes Agent 完整安装教程 https://www.youtube.com/watch?v=Ei-waSEPUjE
+
+Hermes Agent 新手使用十大技巧 https://www.youtube.com/watch?v=hLiN_X7dzdw
+
+告别一切重复枯燥任务，CLI+Skill搭建AI浏览器自动化框架 https://www.youtube.com/watch?v=nlK7-zuYDcs
+
+
+#### 2026.4.13
+上午去打了会篮球🏀
+
+aistudio.google.com/apps 生成茶叶网站
+
+
+
+
 
 
 
