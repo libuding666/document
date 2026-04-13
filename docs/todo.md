@@ -1174,6 +1174,8 @@ https://www.youtube.com/watch?v=a4BhioElUY4
 
 当我抛弃Win11转用Linux，如何办公，学习，打游戏？ https://www.youtube.com/watch?v=cSO8JSOOVoA
 
+10 款不得不裝的 Windows 應用｜Github 千星 Windows 應用 https://www.youtube.com/watch?v=YnTdbHllmPI
+
 
 
 

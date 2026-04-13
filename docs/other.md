@@ -4,6 +4,41 @@
 mcy-shop https://wiki.mcy.im/#/zh-cn/started/cli-install
 白舟智选 https://cargo.wboat.cn/admin/#/login
 麻花商户 https://business.mhdyp.com/#/business
+
+Win11好的软件
+APP下載地址：
+
+1、PowerToys（系統增強）🌟🌟🌟🌟 128k
+https://github.com/microsoft/PowerToys
+（微軟應用商店亦可免費下載）
+
+2、Flow Launcher（快速啓動搜索）🌟🌟 13.3k
+https://github.com/Flow-Launcher/Flow.Launcher
+
+3、Espanso（文本自動補全）🌟🌟 12.9k
+https://github.com/espanso/espanso
+
+4、Files（文件管理神器）🌟🌟 41.3k
+https://github.com/files-community/Files
+
+5、QuickLook（快速預覽）🌟🌟 22.0k
+https://github.com/QL-Win/QuickLook
+
+6、EarTrumpet（音量控制）🌟🌟 10.4k
+https://github.com/File-New-Project/EarTrumpet
+
+7、Snipaste（最佳截圖）🌟 3.5k
+https://apps.microsoft.com/detail/9p1wxpkb68kx?hl=zh-cn&gl=CN&ocid=pdpshare
+
+8、ModernFlyouts（浮窗優化）🌟 4.0k
+https://github.com/ModernFlyouts-Community/ModernFlyouts
+（需要下载证书与应用两个文件，先安装证书再安装应用，详情请看官方说明）
+
+9、Lively Wallpaper（動態桌面）🌟🌟 18.0k
+https://github.com/rocksdanister/lively
+
+10、UniGetUI（全應用管理）🌟🌟 20.0k
+https://github.com/marticliment/UniGetUI
 ```
 
 
