@@ -1,6 +1,6 @@
-# 小红书 MCP 服务器 Wiki
+# WIKI
 
-## 项目概述
+## 小红书 MCP 项目概述
 
 这是一个基于 Model Context Protocol (MCP) 的小红书自动化工具，通过浏览器自动化技术控制小红书网页版，支持 AI 助手（如 Claude、Cursor 等）调用。
 
