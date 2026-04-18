@@ -1128,7 +1128,9 @@ opencode部署及skills安装教程 https://www.bilibili.com/video/BV13DcrzWEps/
 给亮哥修电脑
 
 
+
 #### 2026.4.10
+
 一期视频精通Supabase，顶级后端开源项目，实战教程+本地部署 https://www.youtube.com/watch?v=eTb-Qjwt-zQ
 
 cloudflare worker是什么？ https://www.youtube.com/watch?v=2BfZO_LT6jA
@@ -1139,10 +1141,15 @@ awesome-design-md | 一键复刻大厂设计规范 https://www.bilibili.com/vide
 8点半-9点半开会 小龙虾交流会
 
 
+
 #### 2026.4.11
+
 休息
 
+
+
 #### 2026.4.12
+
 明亮哥指导安装龙虾
 
 整理k40手机图片
@@ -1156,7 +1163,9 @@ Hermes Agent 新手使用十大技巧 https://www.youtube.com/watch?v=hLiN_X7dzd
 告别一切重复枯燥任务，CLI+Skill搭建AI浏览器自动化框架 https://www.youtube.com/watch?v=nlK7-zuYDcs
 
 
-#### 2026.4.13
+
+####  2026.4.13
+
 上午去打了会篮球🏀
 
 aistudio.google.com/apps 生成茶叶网站
@@ -1177,6 +1186,52 @@ https://www.youtube.com/watch?v=a4BhioElUY4
 10 款不得不裝的 Windows 應用｜Github 千星 Windows 應用 https://www.youtube.com/watch?v=YnTdbHllmPI
 
 
+
+####  2026.4.14
+
+制作电动车外贸网站 Electric Bicycle Export Website
+
+https://www.figma.com/make/dgRyn78STPWoCv5GuaU7TJ/Electric-Bicycle-Export-Website?t=M2nmUkn6BZljFJvY-0
+
+https://stitch.withgoogle.com/projects/16776417464322407709?pli=1
+
+https://ebike.eu.cc/
+
+https://ebike-zeta.vercel.app/
+
+
+
+
+####  2026.4.15
+跟亮哥沟通后面的计划
+
+制作ai提示词网站 https://ai-prompts-vert.vercel.app/
+
+一个Markdown文件凭什么拿到16k Stars？深度解读 Karpathy 的 AI 编程准则 https://www.bilibili.com/video/BV19gQhBqENu/
+
+
+
+####  2026.4.16
+
+面试 
+
+研究数据大屏
+
+全过程白嫖 Cloudflare！手把手教你搭建 Rin 永久免费博客! https://www.youtube.com/watch?v=DCeWXNVKp0M
+
+
+####  2026.4.17
+打乒乓球 篮球
+
+学习Electron基础
+
+看了下xiaohongshu-mcp源码
+
+
+####  2026.4.18
+研究 xiaohongshu-mcp源码 
+
+写Electron案例
 
 
 
