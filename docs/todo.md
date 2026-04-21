@@ -1110,6 +1110,134 @@ opencode部署及skills安装教程 https://www.bilibili.com/video/BV13DcrzWEps/
 
 
 
+#### 2026.4.4 - 4.6
+放假
+
+
+
+
+#### 2026.4.7 - 4.8
+颈椎一直不舒服
+
+
+
+#### 2026.4.9
+
+完善vue-admin demo
+
+给亮哥修电脑
+
+
+
+#### 2026.4.10
+
+一期视频精通Supabase，顶级后端开源项目，实战教程+本地部署 https://www.youtube.com/watch?v=eTb-Qjwt-zQ
+
+cloudflare worker是什么？ https://www.youtube.com/watch?v=2BfZO_LT6jA
+
+awesome-design-md | 一键复刻大厂设计规范 https://www.bilibili.com/video/BV1xFSfBwE9R/
+仓库：https://github.com/VoltAgent/awesome-design-md
+
+8点半-9点半开会 小龙虾交流会
+
+
+
+#### 2026.4.11
+
+休息
+
+
+
+#### 2026.4.12
+
+明亮哥指导安装龙虾
+
+整理k40手机图片
+
+图片压缩网站 https://small.im/zh-hans
+
+免费开源！OpenClaw 进化版来了！Hermes Agent 完整安装教程 https://www.youtube.com/watch?v=Ei-waSEPUjE
+
+Hermes Agent 新手使用十大技巧 https://www.youtube.com/watch?v=hLiN_X7dzdw
+
+告别一切重复枯燥任务，CLI+Skill搭建AI浏览器自动化框架 https://www.youtube.com/watch?v=nlK7-zuYDcs
+
+
+
+####  2026.4.13
+
+上午去打了会篮球🏀
+
+aistudio.google.com/apps 生成茶叶网站
+
+提交个体户个税
+
+喂饭，opc cli开源，剪口播、特效字幕、语音合成、等技能持续更新中...顺便聊下asr,tts中藏着的商业价值 https://www.youtube.com/watch?v=f6JXPVbH5LU
+
+一键搭建自己的全球住宅ISP机场节点-后翻墙时代来了 https://www.youtube.com/watch?v=3hQ4eF4OJVQ
+
+免费白嫖 Qwen3.6 Plus！OpenRouter 接入 OpenClaw，1M 上下文模型终于能用了 https://www.youtube.com/watch?v=BRQPqchpM2w&t=563s
+
+【一周实测】Google 放大招？Gemma 4 在 iPhone 断网运行，结果太意外了！| Human Beta Lab
+https://www.youtube.com/watch?v=a4BhioElUY4
+
+当我抛弃Win11转用Linux，如何办公，学习，打游戏？ https://www.youtube.com/watch?v=cSO8JSOOVoA
+
+10 款不得不裝的 Windows 應用｜Github 千星 Windows 應用 https://www.youtube.com/watch?v=YnTdbHllmPI
+
+
+
+####  2026.4.14
+
+制作电动车外贸网站 Electric Bicycle Export Website
+
+https://www.figma.com/make/dgRyn78STPWoCv5GuaU7TJ/Electric-Bicycle-Export-Website?t=M2nmUkn6BZljFJvY-0
+
+https://stitch.withgoogle.com/projects/16776417464322407709?pli=1
+
+https://ebike.eu.cc/
+
+https://ebike-zeta.vercel.app/
+
+
+
+
+####  2026.4.15
+跟亮哥沟通后面的计划
+
+制作ai提示词网站 https://ai-prompts-vert.vercel.app/
+
+一个Markdown文件凭什么拿到16k Stars？深度解读 Karpathy 的 AI 编程准则 https://www.bilibili.com/video/BV19gQhBqENu/
+
+
+
+####  2026.4.16
+
+面试 
+
+研究数据大屏
+
+全过程白嫖 Cloudflare！手把手教你搭建 Rin 永久免费博客! https://www.youtube.com/watch?v=DCeWXNVKp0M
+
+
+####  2026.4.17
+打乒乓球 篮球
+
+学习Electron基础
+
+看了下xiaohongshu-mcp源码
+
+
+####  2026.4.18
+研究 xiaohongshu-mcp源码 
+
+写Electron案例
+
+
+
+
+
+
 
 
 
