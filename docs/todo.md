@@ -1220,6 +1220,8 @@ https://ebike-zeta.vercel.app/
 全过程白嫖 Cloudflare！手把手教你搭建 Rin 永久免费博客! https://www.youtube.com/watch?v=DCeWXNVKp0M
 
 
+
+
 ####  2026.4.17
 打乒乓球 篮球
 
@@ -1228,10 +1230,100 @@ https://ebike-zeta.vercel.app/
 看了下xiaohongshu-mcp源码
 
 
+
+
 ####  2026.4.18
 研究 xiaohongshu-mcp源码 
 
 写Electron案例
+
+电商智能客服系统
+https://github.com/JC0v0/Customer-Agent
+
+ChatWiki 微信公众号的AI知识库工作流Agent平台 
+https://github.com/zhimaAi/chatwiki
+
+BuildingAI
+https://github.com/BidingCC/BuildingAI/blob/master/README.zh-CN.md
+
+https://github.com/scorpioliu0953/ai_customer_service
+https://github.com/chaitin/KoalaQA
+
+智能闲鱼客服机器人系统
+https://github.com/shaxiu/XianyuAutoAgent
+https://my.feishu.cn/wiki/JtkBwkI9GiokZikVdyNceEfZncE
+
+https://github.com/GuDong2003/xianyu-auto-reply-fix
+
+https://www.videokit.cc/video-trimmer
+
+帮我发布视频到抖音
+标题：我的老家很美
+视频：D:\douyin\20260418_145052.mp4
+描述：黄山祁门，城市形象片
+标签：美食,鸡腿,烹饪
+
+https://github.com/lancelin111/douyin-mcp-server
+
+
+https://open.mcd.cn/mcp/doc
+
+
+####  2026.4.19
+老杨来这边打球 聊天
+
+
+
+####  2026.4.20
+跟昕哥去步行街吃饭
+
+https://space.bilibili.com/3632305180510892?spm_id_from=333.788.upinfo.detail.click
+
+向量数据库 Milvus
+https://milvus.io/docs/zh/quickstart.md
+https://docs.zilliz.com/docs/create-cluster#create-a-free-cluster
+https://zhuanlan.zhihu.com/p/1912478457285293545
+https://www.cnblogs.com/ljbguanli/p/19315600
+https://developers.redhat.com/
+
+部署ai产品网站
+
+rag知识库基础知识
+
+zeabur项目终止，换成其他方案
+
+
+
+####  2026.4.21
+上午理发
+
+跟老周一起吃午饭
+
+rag知识库继续学习
+https://www.infoq.cn/article/5dhOzeriuezQajEPC41Y
+https://zhuanlan.zhihu.com/p/2024921762337398826
+https://www.woshipm.com/ai/6372020.html
+
+https://www.mashibing.com/study?courseNo=2750&sectionNo=113979&courseVersionId=3679
+
+https://www.mashibing.com/update/plan/835?month=2025-05
+
+https://www.mashibing.com/question/detail/119426
+https://github.com/datawhalechina/all-in-rag
+
+LLM WIKI https://hcn9zwu8a0fz.feishu.cn/wiki/AM3ewXySViopPdkE8Gic90BDnRb
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
