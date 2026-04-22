@@ -1315,6 +1315,34 @@ LLM WIKI https://hcn9zwu8a0fz.feishu.cn/wiki/AM3ewXySViopPdkE8Gic90BDnRb
 
 
 
+#### 2026.4.22
+
+去盒马买猫粮
+
+研究医美ai方案(暂时不做)
+
+买菜
+
+https://blog.csdn.net/weixin_42361478/article/details/157996284
+
+https://blog.csdn.net/weixin_36300623/article/details/158230562
+
+https://www.modelscope.cn/models/MusePublic/Realistic_Vision_V6.0_B1_SD_1_5
+
+https://blog.csdn.net/weixin_29138345/article/details/160195519
+
+https://blog.csdn.net/weixin_28681379/article/details/157752412
+
+https://product.yizheai.cn/solution-Medical-aesthetics.html
+
+https://www.jenova.ai/
+
+https://stargravity.net/
+
+https://www.jenova.ai/a/cosmetic-surgery-image-specialist
+
+Streamlit极简UI
+
 
 
 
