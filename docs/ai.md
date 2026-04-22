@@ -358,4 +358,4 @@ Skills市场： https://skillsmp.com
 
 ![PixPin_2026-04-20_15-11-36](./img/PixPin_2026-04-20_15-11-36.png)
 
-![ScreenShot_2026-04-21_165811_303](./img\ScreenShot_2026-04-21_165811_303.png)
+![ScreenShot_2026-04-21_165811_303](./img/ScreenShot_2026-04-21_165811_303.png)
