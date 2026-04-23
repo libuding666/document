@@ -1265,8 +1265,9 @@ https://www.videokit.cc/video-trimmer
 
 https://github.com/lancelin111/douyin-mcp-server
 
-
 https://open.mcd.cn/mcp/doc
+
+
 
 
 ####  2026.4.19
@@ -1345,11 +1346,35 @@ Streamlit极简UI
 
 
 
+#### 2026.4.23
 
+找兼职 找到一个4.30下午2点去培训 - 5.4 100/天
 
+2025AI大模型全套学习资源免费下载：含企业实战/微调/开发/部署，极客时间+马士兵等机构内部课程
+https://juejin.cn/post/7543595560383332406
 
+https://linux.do/t/topic/504930
 
+https://www.mashibing.com/subject/167?courseNo=2870&courseVersionId=3831
 
+pip3 install textract -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+pip config set global.index-url https://repo.huaweicloud.com/repository/pypi/simple/
+
+清华大学TUNA镜像源： https://pypi.tuna.tsinghua.edu.cn/simple
+阿里云镜像源： http://mirrors.aliyun.com/pypi/simple/
+中国科学技术大学镜像源： https://mirrors.ustc.edu.cn/pypi/simple/
+华为云镜像源： https://repo.huaweicloud.com/repository/pypi/simple/
+腾讯云镜像源：https://mirrors.cloud.tencent.com/pypi/simple/
+
+https://zhuanlan.zhihu.com/p/1933935266311181586
+https://docs.zilliz.com/reference/python
+https://github.com/milvus-io/pymilvus
+https://cloud.tencent.com/developer/article/2338320
+https://github.com/zilliztech/zilliz-cli
+https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN
+
+xiaohongshu-mcp 部署步骤 卸载软件 ↔️ 清除记忆（包括云端）↔️ 复制文件 ↔️ 让熟悉代码，登录，发布
 
 
 
