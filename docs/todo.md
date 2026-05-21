@@ -1437,13 +1437,136 @@ pm5:40去天才吧搞大老王苹果电脑
 #### 2026.5.7
 拼多多商品添加标签图
 
+Open Design: 最新超火开源免费AI 原型设计 https://www.bilibili.com/video/BV1dBRiBeEBa/
+
+如何用Trae制作一款安卓APP（实操演示）https://www.bilibili.com/video/BV1g7dZBpE2D/
+
+Trae使用skill做自动化测试真的很简单 https://www.bilibili.com/video/BV1CzowBXEGW/
+
+【知识库搭建】B站最全最细的RAG知识库搭建零基础到实战全教程 https://www.bilibili.com/video/BV16kdzBpEDy
+
+https://github.com/NanGePlus/LangFlowTest
 
 
 
 
+#### 2026.5.8
+休息
+
+给老周搞车子
 
 
 
+#### 2026.5.9
+去永辉
+
+投简历
+
+
+
+#### 2026.5.10
+休息
+
+网吧
+
+参加ai培训
+
+
+
+#### 2026.5.11
+看rag教程
+
+![关键概念](./img/fiekdfds.png)
+
+https://github.com/songquanpeng/one-api
+
+https://laraveldaily.com/lesson/laravel-13-beginners/intro-whats-inside-the-course-2
+
+Vue3零基础入门|9小时入门 https://www.bilibili.com/video/BV1e1qSBxEDA
+
+```bash
+https://mirrors.cloud.tencent.com/help/composer.html
+composer config -g repo.packagist composer https://packagist.phpcomposer.com
+```
+
+
+#### 2026.5.12
+
+去馆主之家沟通新功能
+
+
+
+#### 2026.5.13
+
+修改狸小电小程序
+
+
+
+#### 2026.5.14
+
+面试
+
+研究cc codex
+
+调试狸小电小程序
+
+
+
+#### 2026.5.15
+
+添加馆主之家 底部客服 分享
+
+
+
+#### 2026.5.16
+
+颈椎不舒服 休息
+
+
+
+#### 2026.5.17
+
+颈椎不舒服 休息
+
+
+
+#### 2026.5.18
+
+添加馆主之家 申请结算页面
+
+添加馆主之家商家客服二维码功能
+
+40分钟学会Codex！“零基础”终级教程～【附完整文档】
+https://www.bilibili.com/video/BV1Nd596vEyU/
+
+Codex全解【视频文档】https://my.feishu.cn/wiki/OCY5wzbGhiLDr8kMulkcLLuSnQd
+
+【2026】封神级Claude Code干货！https://www.bilibili.com/video/BV11q97BbEz3
+
+
+
+#### 2026.5.19
+上午休息
+
+从零开始Codex，10min从零上线一个项目 https://www.bilibili.com/video/BV17dduBwEXv/
+
+爆肝万字！这应该是全网最全的 Codex 实战教程了 https://juejin.cn/post/7638806086187565082
+
+https://hero-sms.com/cn
+
+
+
+#### 2026.5.20
+
+上午休息
+
+去复试 codex ai写代码
+
+
+
+
+#### 2026.5.21
+继续做馆主之家功能 
 
 
 
