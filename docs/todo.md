@@ -1564,9 +1564,34 @@ https://hero-sms.com/cn
 
 
 
-
 #### 2026.5.21
-继续做馆主之家功能 
+继续做馆主之家功能
+
+
+
+
+#### 2026.5.22
+继续做馆主之家功能  确认已经做好的页面
+
+申请微信支付 商家转账  研究
+
+
+
+
+#### 2026.5.23
+上午休息
+
+下午去永辉 搞枇杷 杏子
+
+研究BrowserOS
+
+https://docs.browseros.com/ https://github.com/browseros-ai/BrowserOS
+
+https://www.youtube.com/watch?v=lUvgw7v-avA
+
+https://www.perplexity.ai/comet
+
+
 
 
 
