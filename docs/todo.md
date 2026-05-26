@@ -1594,6 +1594,43 @@ https://www.perplexity.ai/comet
 
 
 
+#### 2026.5.24
+上午休息
+
+改了下狸小电的东西，没让我改了
+
+拒绝Vibe Coding！| AI编程的正确姿势 | TypeScript大神的AI秘 https://www.youtube.com/watch?v=_y772bb9VZE
+
+Git+Github核心概念大串讲，从零到一全攻略，详细实战教程 https://www.youtube.com/watch?v=bWUUHBVg-7E
+
+真正能保留面部特征的无审查 AI 图像到图像生成器https://www.atlascloud.ai/zh/blog/guides/best-uncensored-ai-image-to-image-generators
+
+腾讯混元生图 https://image.hunyuan.tencent.com/
+
+Claude Code + Remotion 6个实战Demo https://www.youtube.com/watch?v=fB4uipaYYeU
+
+1.51 reb:/ j@p.Qx 09/15 :2pm 过亿阅读！油管大神Dan Koe AI时代个人成长雄文引争议 这份由油管大神Dan Koe 撰写的《AI时代个人成长手册》全网阅读量已经过亿，其核心主旨在于：在 AI 与自动化崛起的“第二次文艺复兴”时代，拥有多重兴趣不再是弱点，而是巨大的竞争优势。 创作者应通过“个人公司化”的逻辑，将个人兴趣转化为一套可持续的商业系统。对于这篇文章，除了拥趸们的支持之外，反对者则认为，还有很多从事单一工作的专家能够在单一兴趣中获得内在安全感、幸福感，他们一样对社会做出了巨大的贡献。# vlog十亿流量扶持计划 # 干货分享 # 知识分享 # AI技能 # 自媒体创业  https://v.douyin.com/4QUy_CnmJlM/ 复制此链接，打开Dou音搜索，直接观看视频！
+
+
+#### 2026.5.25
+AI 模拟面试官 https://docs.bigmodel.cn/cn/best-practice/creativepractice/aimockinterviewer
+
+你们都是 plus、pro，但是程序需要用 api 在哪里买？ https://v2ex.com/t/1215096#reply29
+
+https://mwxmw4kfc7.feishu.cn/wiki/FZcrwhYkyiUbQqkJ7rQcmzN9nYe
+
+2026年 Claude Code 安装教程 + 白嫖 AWS $200 免费用 Opus 4.6！ https://github.com/736773174/claude-code-free
+
+https://shop.ciii.club/
+
+Codeg（Code Generation）是一个企业级多 Agent 编码工作台。https://github.com/xintaofei/codeg
+
+免费、开源，与AI Agents协作的Cowork App https://github.com/iOfficeAI/AionUi/blob/main/docs/readme/readme_ch.md
+
+OpenAI 封号后续来了 https://v2ex.com/t/1214732#reply21
+
+sk-d2f6d17fb21a4fd487dc23423bf8368c
+
 
 
 
