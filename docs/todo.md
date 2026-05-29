@@ -1612,6 +1612,7 @@ Claude Code + Remotion 6个实战Demo https://www.youtube.com/watch?v=fB4uipaYYe
 1.51 reb:/ j@p.Qx 09/15 :2pm 过亿阅读！油管大神Dan Koe AI时代个人成长雄文引争议 这份由油管大神Dan Koe 撰写的《AI时代个人成长手册》全网阅读量已经过亿，其核心主旨在于：在 AI 与自动化崛起的“第二次文艺复兴”时代，拥有多重兴趣不再是弱点，而是巨大的竞争优势。 创作者应通过“个人公司化”的逻辑，将个人兴趣转化为一套可持续的商业系统。对于这篇文章，除了拥趸们的支持之外，反对者则认为，还有很多从事单一工作的专家能够在单一兴趣中获得内在安全感、幸福感，他们一样对社会做出了巨大的贡献。# vlog十亿流量扶持计划 # 干货分享 # 知识分享 # AI技能 # 自媒体创业  https://v.douyin.com/4QUy_CnmJlM/ 复制此链接，打开Dou音搜索，直接观看视频！
 
 
+
 #### 2026.5.25
 AI 模拟面试官 https://docs.bigmodel.cn/cn/best-practice/creativepractice/aimockinterviewer
 
@@ -1630,6 +1631,41 @@ Codeg（Code Generation）是一个企业级多 Agent 编码工作台。https://
 OpenAI 封号后续来了 https://v2ex.com/t/1214732#reply21
 
 sk-d2f6d17fb21a4fd487dc23423bf8368c
+
+
+
+
+#### 2026.5.26
+馆主之家功能完善 出现缓存问题
+
+
+
+#### 2026.5.27
+沟通馆主之家需求 分账（未申请） 立即拼成 ✅
+
+编译 D:\code\bigbudingCode\BrowserOS\packages\browseros
+
+
+
+#### 2026.5.28
+编译 D:\code\bigbudingCode\BrowserOS\packages\browseros
+
+
+
+#### 2026.5.29
+
+编译 D:\code\bigbudingCode\BrowserOS\packages\browseros 凌晨2点左右 还剩13%左右
+
+https://zhishu.dev/
+
+要搞拼多多上传产品 年审 ❌
+
+
+
+
+
+
+
 
 
 
