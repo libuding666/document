@@ -1903,6 +1903,67 @@ GoldPaw 远程调试
 
 
 
+#### 2026.7.12
+
+休息
+
+去盒马
+
+
+
+#### 2026.7.13
+
+下雨休息
+
+更新yougan.cc官网
+
+
+
+#### 2026.7.14
+
+LitePan
+
+RAG优化：17种RAG方案，谁才是RAG最佳选择？ https://www.bilibili.com/video/BV18wTM6bEoQ/
+
+无线麦克风接收器坏了，研究怎么修改
+
+编译GoldPaw 加上日志排查 远程调试 
+
+
+
+#### 2026.7.15
+
+休息
+
+
+
+#### 2026.7.16
+
+休息
+
+AI Native https://zhuanlan.zhihu.com/p/1959187981979096173
+https://cloud.tencent.com/developer/article/2624391
+https://mp.weixin.qq.com/s?__biz=Mzk5MDA4MzUwNw==&mid=2247484261&idx=1&sn=68b8448a23e28c697f23a099a8d1d535&scene=21&poc_token=HIJ6WGqj2QM2dLpq_QfxlicZRmtwEgSYTfQWYRbn
+https://www.coze.cn/opensource
+
+
+
+codebase-memory-mcp https://www.bilibili.com/video/BV1Ma7T6jEnu/?spm_id_from=333.337.search-card.all.click&vd_source=611c52b27c89f48d96d94e3dac50a33d
+https://www.bilibili.com/video/BV1qHTf6mEKC/?spm_id_from=333.337.search-card.all.click&vd_source=611c52b27c89f48d96d94e3dac50a33d
+https://github.com/DeusData/codebase-memory-mcp
+
+🚀LangChain新神器OpenWiki打造数据飞轮！开启LLM Wiki 2.0时代！https://www.bilibili.com/video/BV1EaN86hEhV/?spm_id_from=333.1007.tianma.7-1-23.click&vd_source=611c52b27c89f48d96d94e3dac50a33d
+
+
+
+傍晚去盒马 kkv
+
+快10点调试  win GoldPaw 断掉的问题 
+
+
+
+
+
 
 
 
